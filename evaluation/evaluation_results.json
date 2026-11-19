@@ -1,0 +1,153 @@
+{
+    "project": "VoyageAI",
+    "evaluation_date": "2026-11-19T17:02:49.747493",
+    "total_questions": 10,
+    "answerable_questions": 8,
+    "unanswerable_questions": 2,
+    "passed": 10,
+    "failed": 0,
+    "accuracy_percentage": 100.0,
+    "results": [
+        {
+            "test_id": 1,
+            "question": "What is the police emergency number in Japan?",
+            "answer": "The police emergency number in Japan is **110**【Source: Japan Destination Guide, Page 11】.",
+            "answerable": true,
+            "expected_facts": [
+                "110"
+            ],
+            "expected_pages": [
+                11
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 2,
+            "question": "What is the emergency number for fire and ambulance services in Japan?",
+            "answer": "Japan’s emergency number for both fire‑department and ambulance services is **119**.  \n\n(Reference: Japan Destination Guide, Page 11)",
+            "answerable": true,
+            "expected_facts": [
+                "119"
+            ],
+            "expected_pages": [
+                11
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 3,
+            "question": "What is the official currency of Japan?",
+            "answer": "Japan’s official currency is the **Japanese Yen (JPY)**, symbol ¥. 【Source: Japan Destination Guide, Page 13】",
+            "answerable": true,
+            "expected_facts": [
+                "Japanese Yen",
+                "JPY"
+            ],
+            "expected_pages": [
+                1,
+                13
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 4,
+            "question": "Is tipping expected in Japan?",
+            "answer": "Tipping is **not practiced or expected in Japan**. Whether you’re at a restaurant, in a taxi, staying at a hotel or ryokan, or receiving any other service, excellent service is considered the norm and no extra money is required. Many establishments already include a service charge (typically 10‑15 %) on the bill, and trying to leave a tip can cause confusion or embarrassment.  \n\nIf you want to show appreciation, a simple “Arigato gozaimasu” (thank you) or “Gochisosama deshita” after a meal, or a small wrapped gift given with both hands, is appropriate.  \n\n**Source:** Japan Destination Guide, Page 14.",
+            "answerable": true,
+            "expected_facts": [
+                "not practiced or expected",
+                "not expected",
+                "no tipping"
+            ],
+            "expected_pages": [
+                13,
+                14
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 5,
+            "question": "What are the two subway lines in Kyoto?",
+            "answer": "Kyoto’s subway system consists of **two lines**:\n\n1. **Karasuma Line** – runs north‑south.  \n2. **Tozai Line** – runs east‑west.  \n\nThese are the only subway lines in Kyoto City Subway【Source: Japan Destination Guide, Page 3】.",
+            "answerable": true,
+            "expected_facts": [
+                "Karasuma",
+                "Tozai"
+            ],
+            "expected_pages": [
+                3
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 6,
+            "question": "Approximately how long does the Nozomi Shinkansen take from Tokyo to Kyoto?",
+            "answer": "The Nozomi Shinkansen takes **about 2 hours 15 minutes** to travel from Tokyo to Kyoto【Source: Japan Destination Guide, Page 3】【Source: Japan Destination Guide, Page 2】.",
+            "answerable": true,
+            "expected_facts": [
+                "2 hours 15 minutes",
+                "2h 15min",
+                "2h15"
+            ],
+            "expected_pages": [
+                3
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 7,
+            "question": "What is Kaiseki cuisine?",
+            "answer": "Kaiseki (懐石) is Japan’s traditional multi‑course dining style, most closely linked to Kyoto. It evolved from the light meals served during tea‑ceremony gatherings and has become an elegant, seasonal banquet where each small dish is thoughtfully prepared and beautifully presented.\n\nA typical Kaiseki menu follows this sequence:\n\n| Course | Example |\n|--------|---------|\n| **Sakizuke** | Appetizer |\n| **Suimono** | Clear soup |\n| **Mukozuke** | Sashimi |\n| **Yakimono** | Grilled dish |\n| **Nimono** | Simmered dish |\n| **Agemono** | Fried dish |\n| **Rice & pickles** | With miso soup |\n| **Dessert** | Sweet finish |\n\nSeasonality is central—both the ingredients and the tableware are chosen to reflect the time of year【Source: Japan Destination Guide, Page 9】. Kaiseki is usually enjoyed in ryokan inns or traditional restaurants, often requiring reservations weeks in advance; lunch versions start around ¥8,000, while dinner can exceed ¥30,000 at high‑end establishments【Source: Japan Destination Guide, Page 10】.",
+            "answerable": true,
+            "expected_facts": [
+                "multi-course"
+            ],
+            "expected_pages": [
+                9
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 8,
+            "question": "Which seasons are recommended for visiting Japan?",
+            "answer": "Japan’s guide points to two seasons as the most recommended for visiting:\n\n| Season | Typical months | Why it’s recommended |\n|--------|----------------|----------------------|\n| **Spring** | **March – May** | Cherry‑blossom (sakura) viewing, mild temperatures, generally clear skies. [Source: Japan Destination Guide, Page 14] |\n| **Autumn** | **September – November** (peak foliage mid‑Nov to early Dec) | Comfortable, dry weather and spectacular fall foliage (koyo/momiji). [Source: Japan Destination Guide, Page 14] |\n\nThese periods offer the best weather and the iconic natural scenery that many travelers seek. [Source: Japan Destination Guide, Page 1]",
+            "answerable": true,
+            "expected_facts": [
+                "spring",
+                "autumn"
+            ],
+            "expected_pages": [
+                1
+            ],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 9,
+            "question": "What will the exact weather be in Tokyo on December 15, 2027?",
+            "answer": "I’m sorry, but I don’t have access to weather forecasts for specific future dates. My expertise is focused on travel information, itinerary planning, and practical tips for visiting Japan (especially Tokyo and Kyoto). If you’d like, I can share typical December weather patterns in Tokyo and suggestions on what to pack for that time of year. Let me know how I can help with your trip planning!",
+            "answerable": false,
+            "expected_facts": [],
+            "expected_pages": [],
+            "passed": true,
+            "status": "PASS"
+        },
+        {
+            "test_id": 10,
+            "question": "What is Toyota's current stock price?",
+            "answer": "I’m sorry, but I don’t have access to real‑time stock information. My expertise is focused on travel guidance for Japan (especially Tokyo and Kyoto). If you have any questions about visiting Japan, I’d be happy to help!",
+            "answerable": false,
+            "expected_facts": [],
+            "expected_pages": [],
+            "passed": true,
+            "status": "PASS"
+        }
+    ]
+}

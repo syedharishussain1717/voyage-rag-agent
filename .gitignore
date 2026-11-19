@@ -1,0 +1,54 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local vector database
+chroma_db/
+
+# SQLite databases and temporary files
+*.db
+*.sqlite
+*.sqlite3
+*-shm
+*-wal
+*.db-shm
+*.db-wal
+
+# Uploaded and temporary files
+temp/
+tmp/
+*.tmp
+
+# Python testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
