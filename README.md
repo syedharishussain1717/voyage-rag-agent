@@ -1,6 +1,6 @@
 # VoyageAI -- Destination Intelligence & Cultural Travel Companion
 
-**GitHub Repository:** https://github.com/syedharishussain1717/voyage-rag-agent
+**GitHub Repository:** https://github.com/syedharishussain1717/voyage-rag-agent\
 **Project:** VoyageAI -- Destination Intelligence & Cultural Travel
 Companion\
 **Selected document:** *VoyageAI Official Destination Guide Japan (Tokyo
