@@ -1,11 +1,12 @@
 # VoyageAI -- Destination Intelligence & Cultural Travel Companion
 
-**GitHub Repository:** https://github.com/syedharishussain1717/voyage-rag-agent\
-**Project:** VoyageAI -- Destination Intelligence & Cultural Travel
-Companion\
-**Selected document:** *VoyageAI Official Destination Guide Japan (Tokyo
-& Kyoto)*\
-**Submission date:** 19 November 2026
+**GitHub Repository:** https://github.com/syedharishussain1717/voyage-rag-agent
+
+**Project:** VoyageAI – Destination Intelligence & Cultural Travel Companion
+
+**Selected Document:** *VoyageAI Official Destination Guide Japan (Tokyo & Kyoto)*
+
+**Submission Date:** 19 November 2026
 
 ## 1. Document selected and reason
 
